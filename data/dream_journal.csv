@@ -1,0 +1,4 @@
+dream_id,user_id,dream_text,dream_date,created_at,updated_at,detected_type,emotional_tone,extracted_symbols
+a13c3d57-f81c-4ef4-8488-10127c7acb23,tester1,Testing adding a dream via Postman.,2025-04-17,2025-04-17T14:12:19.852478,2025-04-17T14:12:19.852478,,{},[]
+4879613f-5bcc-4c25-8e7c-cb014bee5fa9,nlp_tester,"It was a strange nightmare, I was flying over a dark forest but then suddenly falling. I felt afraid.",2025-04-18,2025-04-17T14:25:00.565666,2025-04-17T14:25:00.565666,Nightmare,"{""neg"": 0.202, ""neu"": 0.798, ""pos"": 0.0, ""compound"": -0.3182}","[""forest""]"
+eea46161-a30d-4a03-98b5-ea75c5c81a3f,nlp_tester,"It was a strange nightmare, I was flying over a dark forest but then suddenly falling.",2025-04-19,2025-04-17T15:18:48.894757,2025-04-17T15:18:48.894757,Nightmare,"{""neg"": 0.231, ""neu"": 0.769, ""pos"": 0.0, ""compound"": -0.3182}","[""forest""]"
